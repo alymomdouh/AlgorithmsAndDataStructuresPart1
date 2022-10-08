@@ -36,3 +36,30 @@ Course Content
 ######   4.5-Code: Queue and Stack 
 ######   4.6-Demo: Adding Undo Command 
 ######   4.7-Demo: Flight Recorder Logging
+### 5-Binary Search Trees	 
+######   5.1-Module Introduction 
+######   5.2-Trees 
+######   5.3-Binary Trees 
+######   5.4-Binary Tree Nodes	 
+######   5.5-Binary Search Trees 
+######   5.6-Pre-order Traversal 
+######   5.7-In-order Traversal	 
+######   5.8-Post-order Traversal 
+######   5.9-Searching the Tree 
+######   5.10-Removing Items: Leaf Nodes 
+######   5.11-Removing Items: Single Child 
+######   5.12-Removing Items: Two Children 
+######   5.13-Demo: Improving Performance with a Binary Tree 
+### 6-Hash Tables 
+######    6.1- Module Introduction 
+######    6.2- Associative Arrays 
+######    6.3- Hash Table Overview 
+######    6.4- Hash Functions 
+######    6.5- Sample Hash Function Algorithms 
+######    6.6- Adding Items 
+######    6.7- Handling Hash Function Collisions 
+######    6.8- Growth and Fill Factor 
+######    6.9- Iteration 
+######    6.10- Finding Items	 
+######    6.11- Removing Items 
+######    6.12- Demo: Adding State-level Caching
